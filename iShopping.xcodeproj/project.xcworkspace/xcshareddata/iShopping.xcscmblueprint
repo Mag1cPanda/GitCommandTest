@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "d1bd883b-ac27-46ce-ae37-3c61df1bee63++9938" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "d1bd883b-ac27-46ce-ae37-3c61df1bee63++9938" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5EB6267B-A36F-4CF4-9619-5A07B27B8234",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "d1bd883b-ac27-46ce-ae37-3c61df1bee63++9938" : "..\/..\/%E7%AC%AC%E4%B8%89%E6%96%B9%E5%BA%93\/MJRefresh"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "iShopping",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "iShopping.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/t.svnchina.com\/svn\/tuzhu",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "d1bd883b-ac27-46ce-ae37-3c61df1bee63++9938"
+    }
+  ]
+}
